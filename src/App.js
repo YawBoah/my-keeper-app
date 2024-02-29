@@ -10,7 +10,6 @@ function App() {
      <Header/>
      <Note />
      <Note />
-     <Note />
      <Footer />
     </div>
   );
