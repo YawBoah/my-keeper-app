@@ -15,8 +15,7 @@ function App() {
             key={noteList.id}
             title={noteList.title}
             content={noteList.content}
-          />
-        ))}
+          /> ))}
       <Footer />
     </div>
   );
