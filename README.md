@@ -2,9 +2,8 @@
 
 Welcome to My Keeper App, your personal note-taking application! 🌟
 
-![My Keeper App Logo](https://example.com/my-keeper-app-logo.png)
+![My Keeper App](https://github.com/YawBoah/my-keeper-app/assets/126890146/81870b17-283e-480f-8cc2-59947343f1c7)
 
-## Introduction
 
 My Keeper App is a simple yet powerful note-taking web application built with React. It allows you to create, edit, and manage your notes effortlessly. With its intuitive interface and colorful design, My Keeper App makes organizing your thoughts and ideas a delightful experience. 🎨
 
