@@ -1,7 +1,6 @@
 **My Keeper App 📝**
 
 Welcome to My Keeper App, your personal note-taking application! 🌟
-
 ![My Keeper App](https://github.com/YawBoah/my-keeper-app/assets/126890146/81870b17-283e-480f-8cc2-59947343f1c7)
 
 
